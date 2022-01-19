@@ -24,6 +24,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Add `quantity_limit_per_customer` field to ProductVariant #8405 by @kuchichan
 - Optimize products stock availability filter - #8809 by @fowczarek
 - Do no allow using id for updating checkout and order metadata - #8906 by @IKarbowiak
+- Add `COLLECTION_CREATED`, `COLLECTION_UPDATED`, `COLLECTION_DELETED` events and webhooks - #8974 by @rafalp
 
 # 3.0.0 [Unreleased]
 
